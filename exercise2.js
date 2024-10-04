@@ -13,5 +13,6 @@ function threeStepsAB(text) {
 
 console.log(threeStepsAB('lane borrowed'));
 console.log(threeStepsAB('i am sick'));
+console.log(threeStepsAB('you are boring'));
 console.log(threeStepsAB('barbarian'));
 console.log(threeStepsAB('bacon and meet'));
